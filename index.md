@@ -9,7 +9,7 @@ hero:
   text: 记录思考、工作、生活
   tagline: 
   image:
-    src: /assets/logo.png
+    src: /logo.png
     alt: logo
   actions:
     - theme: brand

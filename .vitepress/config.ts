@@ -6,7 +6,7 @@ export default defineConfig({
   lastUpdated: true,
   head: [["meta", { name: "theme-color", content: "#2d26fc" }]],
   themeConfig: {
-    logo: "/assets/logo.png",
+    logo: "/logo.png",
     nav: [
       { text: "前端", link: "/fe/", activeMatch: "/fe/" },
       { text: "web3", link: "/web3/", activeMatch: "/web3/" },
