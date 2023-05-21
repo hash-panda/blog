@@ -1,0 +1,17 @@
+{
+  "name": "blog-geekdao-info",
+  "version": "1.0.0",
+  "description": "博客记录",
+  "main": "index.js",
+  "repository": "https://github.com/geekdao-info/blog-geekdao-info",
+  "author": "geekDAO",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.76"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
