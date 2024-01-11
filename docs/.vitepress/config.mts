@@ -30,6 +30,12 @@ export default defineConfig({
         text: '算法',
         link: '/coding/algorithm/'
       },
+      {
+        text: '规范',
+        items: [
+          { text: 'git', link: '/spec/git/git-branch' }
+        ]
+      },
       { text: '关于我', link: 'https://github.com/geekdao-info' }
     ],
     socialLinks: [
