@@ -1,11 +1,5 @@
+node_modules
+dist
+cache
+.temp
 .DS_Store
-Thumbs.db
-db.json
-*.log
-node_modules/
-.deploy*/
-package-lock.json
-yarn.lock
-.vitepress/dist
-*.local
-.vitepress/cache

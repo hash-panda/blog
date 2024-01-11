@@ -1,17 +1,26 @@
 {
-  "name": "blog-geekdao-info",
+  "name": "geekdao-info",
   "version": "1.0.0",
-  "description": "博客记录",
-  "main": "index.js",
-  "repository": "https://github.com/geekdao-info/blog",
-  "author": "geekDAO",
+  "private": true,
+  "author": "GeekDAO",
   "license": "MIT",
-  "devDependencies": {
-    "vitepress": "^1.0.0-alpha.76"
-  },
   "scripts": {
-    "docs:dev": "vitepress dev .",
-    "docs:build": "vitepress build .",
-    "docs:serve": "vitepress serve ."
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@sugarat/theme": "^0.2.15",
+    "element-plus": "^2.3.8",
+    "vue": "3.3.13"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "sass": "^1.64.1",
+    "typescript": "^5.1.6",
+    "vitepress": "1.0.0-rc.35"
   }
 }
