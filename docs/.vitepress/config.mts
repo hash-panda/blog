@@ -11,7 +11,7 @@ export default defineConfig({
   lang: 'zh-cn',
   title: 'GeekDAO',
   description: '代码创造生活',
-  lastUpdated: true,
+  lastUpdated: false,
   // 详见：https://vitepress.dev/reference/site-config#head
   head: [
     // 配置网站的图标（显示在浏览器的 tab 上）
@@ -22,9 +22,10 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: '首页', link: '/' },
+      { text: 'Vue3', link: '/vue3/' },
       {
         text: '手写代码',
-        link: '/coding/js'
+        link: '/coding/js/'
       },
       {
         text: '算法',

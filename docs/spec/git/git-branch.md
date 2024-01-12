@@ -41,15 +41,15 @@ categories:
 
 ## 分支流程
 
-### 场景一：Jira需求开发
+### 场景一：Jira 需求开发
 
-![](https://secure2.wostatic.cn/static/mCGbMmA9vJ5NckJJNfjFoP/image.png?auth_key=1704989538-tCt58Pa6V36FpLdtdb5GHx-0-c6956af1bbc4cae38d3a4704be02434a)
+![场景一配图](./assets/git1.png)
 
 
 
-### 场景二：线上BUG修复
+### 场景二：线上 BUG 修复
 
-![](https://secure2.wostatic.cn/static/cLJgn7Bu8RLrxPy28V36wb/image.png?auth_key=1704989538-keSsRECnnnRPPqiwqcJzxZ-0-9378ed8f9690885ed61e86cc734de4df)
+![场景二配图](./assets/git2.png)
 
 # git Tag 使用规范
 
