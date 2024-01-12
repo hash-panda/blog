@@ -8,7 +8,7 @@ hidden: true
 
 ## 目录
 
-- [实现并发请求控制](./concurrent-requests-control.md.md)
+- [实现并发请求控制](./concurrent-requests-control.md)
 - [实现深拷贝](./deep-copy.md)
 - [实现 EventBus](./event-bus.md)
 - [实现数组扁平化](./set-oper.md)
