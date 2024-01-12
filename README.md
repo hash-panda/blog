@@ -46,10 +46,3 @@ pnpm dev
 ```sh
 pnpm build
 ```
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=geekdao-info/blog&type=Date)](https://star-history.com/#geekdao-info/blog&Date)
-
-
