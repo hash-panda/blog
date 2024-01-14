@@ -44,7 +44,9 @@ request('/test').then(res=>{
 // 写一个函数模拟接口异步请求
 function fetch(url) {
   return new Promise((resolve, reject) => {
-    setTimeout(resolve({ json: function () { return `${url}的相应数据` } }), 2000)
+    setTimeout(()=>{
+      resolve({ json: function () { return `${url}的相应数据` } })
+    }, 2000)
 
   })
 }
