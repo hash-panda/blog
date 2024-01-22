@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="https://cdn.jsdelivr.net/gh/hash-panda/blog/public/logo.jpg" height="180" alt="头像" />
+    <img src="https://cdn.jsdelivr.net/gh/hash-panda/blog/docs/public/logo.jpg" height="180" alt="头像" />
   </picture>
   <h3 style="color: green"> 哈希熊猫 </h3>
   <p>代码创造生活</p>
