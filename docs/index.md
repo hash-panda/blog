@@ -2,7 +2,7 @@
 layout: home
 # 首页部分元素定制
 blog:
- name: 'GeekDAO'
+ name: '哈希熊猫'
  motto: 代码创造生活
  inspiring:
   - 人生就像骑自行车，方向掌握在自己手中，用力蹬才能前进

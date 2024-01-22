@@ -9,7 +9,7 @@ export default defineConfig({
   // 继承博客主题(@sugarat/theme)
   extends: blogTheme,
   lang: 'zh-cn',
-  title: 'GeekDAO',
+  title: '哈希熊猫',
   description: '代码创造生活',
   lastUpdated: false,
   // 详见：https://vitepress.dev/reference/site-config#head
@@ -19,7 +19,7 @@ export default defineConfig({
   ],
   themeConfig: {
     lastUpdatedText: '上次更新于',
-    logo: '/logo.png',
+    logo: '/logo.jpg',
     nav: [
       { text: '首页', link: '/' },
       { text: 'Vue3', link: '/vue3/' },
@@ -37,12 +37,12 @@ export default defineConfig({
           { text: 'git', link: '/spec/git/git-branch' }
         ]
       },
-      { text: '关于我', link: 'https://github.com/geekdao-info' }
+      { text: '关于我', link: 'https://github.com/hash-panda' }
     ],
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/geekdao-info'
+        link: 'https://github.com/hash-panda'
       }
     ]
   }

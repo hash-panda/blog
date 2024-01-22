@@ -6,12 +6,12 @@ import { getThemeConfig } from '@sugarat/theme/node'
 
 // const baseUrl = 'https://sugarat.top'
 // const RSS: Theme.RSSOptions = {
-//   title: 'GeekDAO',
+//   title: '哈希熊猫',
 //   baseUrl,
-//   copyright: 'Copyright (c) 2022-present, GeekDAO',
+//   copyright: 'Copyright (c) 2022-present, 哈希熊猫',
 //   description: '代码创造生活（大前端记录员）',
 //   language: 'zh-cn',
-//   image: 'https://blog.geekdao.info/logo.png',
+//   image: 'https://blog.geekdao.info/logo.jpg',
 //   favicon: 'https://blog.geekdao.info/favicon.ico',
 // }
 
@@ -28,7 +28,7 @@ const blogTheme = getThemeConfig({
   // 页脚
   footer: {
     // message: '下面 的内容和图标都是可以修改的噢（当然本条内容也是可以隐藏的）',
-    copyright: 'MIT License | GeekDAO',
+    copyright: 'MIT License | 哈希熊猫',
     // icpRecord: {
     //   name: '',
     //   link: 'https://beian.miit.gov.cn/'
@@ -43,15 +43,15 @@ const blogTheme = getThemeConfig({
   themeColor: 'el-green',
 
   // 文章默认作者
-  author: 'GeekDAO',
+  author: '哈希熊猫',
 
   // 友链
   friend: [
     {
-      nickname: 'GeekDAO',
+      nickname: '哈希熊猫',
       des: '代码创造生活',
       avatar:
-        'https://blog.geekdao.info/logo.png',
+        'https://blog.geekdao.info/logo.jpg',
       url: 'https://blog.geekdao.info',
     },
     {

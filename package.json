@@ -1,8 +1,8 @@
 {
-  "name": "geekdao-info",
+  "name": "hash-panda-blog",
   "version": "1.0.0",
   "private": true,
-  "author": "GeekDAO",
+  "author": "哈希熊猫",
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev docs",
