@@ -11,8 +11,8 @@ import { getThemeConfig } from '@sugarat/theme/node'
 //   copyright: 'Copyright (c) 2022-present, 哈希熊猫',
 //   description: '代码创造生活（大前端记录员）',
 //   language: 'zh-cn',
-//   image: 'https://blog.geekdao.info/logo.jpg',
-//   favicon: 'https://blog.geekdao.info/favicon.ico',
+//   image: 'https://blog.hashpanda.xyz/logo.jpg',
+//   favicon: 'https://blog.hashpanda.xyz/favicon.ico',
 // }
 
 // 所有配置项，详见文档: https://theme.sugarat.top/
@@ -51,8 +51,8 @@ const blogTheme = getThemeConfig({
       nickname: '哈希熊猫',
       des: '代码创造生活',
       avatar:
-        'https://blog.geekdao.info/logo.jpg',
-      url: 'https://blog.geekdao.info',
+        'https://blog.hashpanda.xyz/logo.jpg',
+      url: 'https://blog.hashpanda.xyz',
     },
     {
       nickname: 'Vitepress',
@@ -84,7 +84,7 @@ const blogTheme = getThemeConfig({
   //     {
   //       type: 'button',
   //       content: '作者博客',
-  //       link: 'https://blog.geekdao.info'
+  //       link: 'https://blog.hashpanda.xyz'
   //     },
   //     {
   //       type: 'button',
