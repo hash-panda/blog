@@ -2,7 +2,7 @@
   <picture>
     <img src="https://cdn.jsdelivr.net/gh/hash-panda/blog/docs/public/logo.jpg" height="180" alt="头像" />
   </picture>
-  <h3 style="color: green"> 哈希熊猫 </h3>
+  <h3 style="color: green"> 哈希熊猫🐼 </h3>
   <p>代码创造生活</p>
   <p>博客主题：<a href="https://theme.sugarat.top/" target="_blank">@sugarat/theme</a></p>
 
