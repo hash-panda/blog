@@ -34,7 +34,13 @@ export default defineConfig({
       {
         text: '规范',
         items: [
-          { text: 'git', link: '/spec/git/git-branch' }
+          { text: 'git 规范', link: '/spec/git/git-branch' }
+        ]
+      },
+      {
+        text: '进阶',
+        items: [
+          { text: '编译器', link: '/advanced/compiler/compiler' }
         ]
       },
       { text: '关于我', link: 'https://github.com/hash-panda' }
