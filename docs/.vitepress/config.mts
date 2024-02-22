@@ -40,11 +40,23 @@ export default defineConfig({
       {
         text: '进阶',
         items: [
-          { text: '编译器', link: '/advanced/compiler/compiler' }
+          { text: '编译器相关', link: '/compiler/' }
         ]
       },
       { text: '关于我', link: 'https://github.com/hash-panda' }
     ],
+    sidebar: {
+      '/compiler/': [
+        {
+          text: '编译器相关',
+          items: [
+            { text: '介绍', link: '/compiler/' },
+            { text: '前端应该了解的 compiler', link: '/compiler/compiler' },
+            { text: '了解 babel：实现箭头函数转换', link: '/compiler/babel-transform-arrow-function' },
+          ]
+        }
+      ]
+    },
     socialLinks: [
       {
         icon: 'github',

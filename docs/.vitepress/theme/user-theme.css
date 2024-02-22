@@ -3,16 +3,16 @@
 
 /* 浅色模式使用的变量 */
 html[theme] {
-  --vp-c-user-1:red;
-  --vp-c-user-2:blue;
-  --vp-c-user-3:green;
+  --vp-c-user-1:#1cb88e;
+  --vp-c-user-2: #1cb88e;
+  --vp-c-user-3: #1cb88e;
   --vp-c-user-soft:rgba(255,0,0,.5);
 }
 
 /* 深色模式使用的变量 */
 html[theme].dark {
-  --vp-c-user-1:yellow;
-  --vp-c-user-2:purple;
+  --vp-c-user-1:#1cb88e;
+  --vp-c-user-2:#1cb88e;
   --vp-c-user-3:orange;
   --vp-c-user-soft:rgba(255,255,0,.5);
 }

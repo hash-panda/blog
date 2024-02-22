@@ -17,15 +17,16 @@ categories:
 
 [Babel 官网](https://babeljs.io/docs/)上说：
 
-> Babel is a JavaScript compiler.    
-> Babel 是一个编译器。
+> Babel is a JavaScript compiler.
+> 
+> Babel 是 JavaScript 编译器。
 
 Babel 是一个工具链，主要用于在当前和旧版浏览器或环境中将 ECMAScript 2015+ 代码转换为向后兼容的 JavaScript 版本。
 - 转换语法
 - 源代码转换
 - ...
 
-要想学习 babel 作为编译器，是如何进行`词法分析` `语法分析` `代码转换` `代码生成`，可以学习一下官网提供的一个简单编译器的实现：[the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+要想学习 babel 作为编译器是如何进行 `词法分析` `语法分析` `代码转换` `代码生成` 的，可以学习一下官网提供的一个简单编译器的实现：[the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
 ## 实战：箭头函数转换
 
@@ -34,6 +35,9 @@ Babel 是一个工具链，主要用于在当前和旧版浏览器或环境中�
 将箭头函数转换为 es5 写法。
 
 ### 使用 babel 插件实现
+
+官方示例：[use plugin](https://babeljs.io/docs/babel-plugin-transform-arrow-functions)
+
 ```js
 
 ```

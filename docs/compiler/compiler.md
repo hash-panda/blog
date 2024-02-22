@@ -25,7 +25,7 @@ categories:
 
 ## 整体流程
 
-![compiler 流程](../assets/compiler-info.png)
+![compiler 流程](./assets/compiler-info.png)
 
 用伪代码表示就是：
 
